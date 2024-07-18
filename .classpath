@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/amitm/Downloads/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amitm/Downloads/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amitm/Downloads/commons-compress-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amitm/Downloads/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amitm/Downloads/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amitm/Downloads/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amitm/Downloads/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amitm/Downloads/commons-io-2.13.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
